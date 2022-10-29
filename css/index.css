@@ -898,4 +898,102 @@
   color: #777777;
   text-decoration: none;
   display: flex;
+}
+
+@media screen and (max-width: 1350px) {
+  .container {
+    width: 910px;
+  }
+  .header__mid-left {
+    padding-top: 0;
+    padding-right: 0;
+  }
+  .header__title {
+    font-size: 44px;
+    line-height: 65px;
+  }
+  .header__subtitle {
+    width: 400px;
+    margin-bottom: 25px;
+  }
+  .header__mid-left-btn1 {
+    width: 350px;
+  }
+  .header__mid-left-btn2 {
+    width: 350px;
+    margin-left: 0;
+    margin-top: 20px;
+  }
+  .header__mid {
+    align-items: center;
+  }
+  .header__bot {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .title__text {
+    font-size: 44px;
+    line-height: 65px;
+  }
+  .service {
+    width: 280px;
+  }
+  .customers {
+    align-items: center;
+  }
+  .customers__img {
+    width: 400px;
+  }
+  .customers__title {
+    font-size: 32px;
+    line-height: 45px;
+    padding-bottom: 30px;
+  }
+  .customers__list {
+    height: 130px;
+  }
+  .customers__info {
+    width: 450px;
+  }
+  .customers__btn {
+    margin-top: 40px;
+  }
+  .connect__title {
+    font-size: 32px;
+    line-height: 45px;
+  }
+  .connect__info {
+    width: 460px;
+    height: 430px;
+  }
+  .connect__img {
+    width: 400px;
+  }
+  .connect__list-item {
+    width: 460px;
+    margin-bottom: 10px;
+  }
+  .slider {
+    width: 910px;
+  }
+  .after-slider__text {
+    font-size: 32px;
+    line-height: 45px;
+    width: 350px;
+  }
+  .blog__posts {
+    padding-top: 50px;
+  }
+  .post {
+    width: 260px;
+  }
+  .registration {
+    width: 910px;
+  }
+  .footer {
+    align-items: center;
+  }
+  .footer__subtitle {
+    margin-top: 20px;
+  }
 }/*# sourceMappingURL=index.css.map */
