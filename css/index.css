@@ -998,6 +998,9 @@
   .post__bot {
     height: 210px;
   }
+  .after-slider__image {
+    height: 350px;
+  }
 }
 @media screen and (max-width: 960px) {
   .container {

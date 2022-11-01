@@ -1017,6 +1017,11 @@
             height: 210px;
         }
     }
+    .after-slider {
+        &__image {
+            height: 350px;
+        }
+    }
 }
 @media screen and (max-width: 960px) {
     .container {
